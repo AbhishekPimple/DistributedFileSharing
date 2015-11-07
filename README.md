@@ -26,7 +26,7 @@ Utility commands
   
   For Server:
     
-    DISPLAY : Displays IP address and port number of running client
+    DISPLAY : Displays IP address and port number of running server
     
     LIST : Displays list of connected servers with Connection ID, HOSTNAME, IP ADDRESS and PORT
     
@@ -35,7 +35,7 @@ Utility commands
     
     CREATOR : Displays information about creator of program
     
-    DISPLAY : Displays IP address and port number of running server
+    DISPLAY : Displays IP address and port number of running client
     
     LIST : Displays list of current live connections  with Connection ID, HOSTNAME, IP ADDRESS and PORT
     
