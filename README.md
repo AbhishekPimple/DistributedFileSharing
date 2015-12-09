@@ -9,14 +9,14 @@ How to run?
 2. Run the program using below command
   
   To run as server  
-    ./distfilesystem -s <port-Num>
+    ./distfilesystem -s [port-Num]
   
-  where <port-Num> is the port number on which you want to run server. This program will behave as Server after running this command
+  where [port-Num] is the port number on which you want to run server. This program will behave as Server after running this command
 
   To run as client
-    ./distfilesystem -c <port-Num>
+    ./distfilesystem -c [port-Num]
   
-  where <port-Num> is the port number on which you want to run client. This program will behave as Client after running this command
+  where [port-Num] is the port number on which you want to run client. This program will behave as Client after running this command
   
 Utility commands
 
