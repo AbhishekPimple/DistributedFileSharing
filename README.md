@@ -1,5 +1,5 @@
 # DistributedFileSharing
-This is a distributed file sharing application which can run either in server mode or client mode. Client can download, upload or sync files between other connected clients using command line interface. This application is built using socket programming in C on top of transmission control protocol (TCP).
+This is a distributed file sharing application which can run either in server mode or client mode. Client can download, upload and sync files among other connected clients using command line interface. This application is built using socket programming in C on top of transmission control protocol (TCP).
 
 How to run?
 
