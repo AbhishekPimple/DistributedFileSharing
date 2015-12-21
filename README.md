@@ -4,7 +4,9 @@ This is a distributed file sharing application which can run either in server mo
 How to run?
 
 1. Compile this program using below command
+ 
   gcc DistFileSystem.c -o distfilesystem
+
 
 2. Run the program using below command
   
